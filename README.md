@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<script
 const anmol = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "Java", "PHP"],
