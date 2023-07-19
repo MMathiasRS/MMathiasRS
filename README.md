@@ -4,7 +4,7 @@
 <p>Meu objetivo para a vaga em análise e desenvolvimento de sistemas é adquirir conhecimentos práticos na área de TI e contribuir para o desenvolvimento de soluçõe</p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Back end developer <a href="https://www.oneorigin.us/">
+<p><em>Front end developer <a href="https://www.oneorigin.us/">
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
 </div>
