@@ -1,7 +1,7 @@
 ## Oiii eu sou o Marcos Matias!
 
 <div>
-<p>Meu objetivo para a vaga em análise e desenvolvimento de sistemas é adquirir conhecimentos práticos na área de TI e contribuir para o desenvolvimento de soluçõe</p>
+<p>Meu objetivo é melhorar minhas habilidades em front-end.</p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Front end developer <a href="https://www.oneorigin.us/">
